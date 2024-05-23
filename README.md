@@ -2,6 +2,13 @@
 
 Welcome to the Ambulaunch Beta Release Repository! Ambulaunch is an easy-to-use, supercharged launcher designed specifically for AMBOSS' Educational & Clinician Platform. This tool is engineered to enhance efficiency by providing seamless access to a broad range of medical and educational resources with minimal distraction.
 
+## Download
+
+[![Download for Windows](https://img.shields.io/badge/latest-Windows%20x64-blue.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.6.3/Ambulaunch-1.6.3-win-setup-x64-3182e4b2-98e1-4103-b4e1-e43185415c1e.exe)
+
+[![Download for macOS w/ Intel](https://img.shields.io/badge/latest-macOS%20x64-white.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.6.3/Ambulaunch-1.6.3-mac-x64-3182e4b2-98e1-4103-b4e1-e43185415c1e.dmg)
+[![Download for macOS w/ Apple Silicon](https://img.shields.io/badge/latest-macOS%20ARM-white.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.6.3/Ambulaunch-1.6.3-mac-arm64-3182e4b2-98e1-4103-b4e1-e43185415c1e.dmg)
+
 ## Key Functionality
 
 ### BFSB (Big Fat Search Box)
