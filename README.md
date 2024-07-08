@@ -1,6 +1,6 @@
 # 🚀 Ambulaunch-Beta Release Repo
 
-Willkommen zum Ambulaunch BETA Release Repository! Ambulaunch ist ein einfach zu bedienender, leistungsstarker Launcher, der speziell für den Einsatz in Arztpraxen und Kliniken entwickelt wurde. Dieses Tool hilft, effizienter zu arbeiten, indem es nahtlosen Zugriff auf eine breite Palette von medizinischen und pädagogischen Ressourcen bietet ohne dabei viele Klicks zu erfordern.
+Willkommen zum Ambulaunch BETA Release Repository! Ambulaunch ist ein einfach zu bedienender, leistungsstarker Launcher, der speziell für den Einsatz in Arztpraxen und Kliniken entwickelt wurde. Dieses Tool hilft, effizienter zu arbeiten, indem es nahtlosen Zugriff auf eine breite Palette von klinischen, medizinischen Ressourcen bietet ohne dabei viele Klicks zu erfordern.
 
 ## Download
 
