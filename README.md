@@ -1,30 +1,30 @@
 # 🚀 Ambulaunch-Beta Release Repo
 
-Welcome to the Ambulaunch Beta Release Repository! Ambulaunch is an easy-to-use, supercharged launcher designed specifically for AMBOSS' Educational & Clinician Platform. This tool is engineered to enhance efficiency by providing seamless access to a broad range of medical and educational resources with minimal distraction.
+Willkommen zum Ambulaunch BETA Release Repository! Ambulaunch ist ein einfach zu bedienender, leistungsstarker Launcher, der speziell für den Einsatz in Arztpraxen und Kliniken entwickelt wurde. Dieses Tool hilft, effizienter zu arbeiten, indem es nahtlosen Zugriff auf eine breite Palette von medizinischen und pädagogischen Ressourcen bietet ohne dabei viele Klicks zu erfordern.
 
 ## Download
 
-[![Download for Windows](https://img.shields.io/badge/latest-Windows%20x64-blue.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.6.3/Ambulaunch-1.6.3-win-setup-x64-3182e4b2-98e1-4103-b4e1-e43185415c1e.exe)
+[![Download für Windows](https://img.shields.io/badge/latest-Windows%20x64-blue.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.6.3/Ambulaunch-1.6.3-win-setup-x64-3182e4b2-98e1-4103-b4e1-e43185415c1e.exe)
 
-[![Download for macOS w/ Intel](https://img.shields.io/badge/latest-macOS%20x64-white.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.6.3/Ambulaunch-1.6.3-mac-x64-3182e4b2-98e1-4103-b4e1-e43185415c1e.dmg)
-[![Download for macOS w/ Apple Silicon](https://img.shields.io/badge/latest-macOS%20ARM-white.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.6.3/Ambulaunch-1.6.3-mac-arm64-3182e4b2-98e1-4103-b4e1-e43185415c1e.dmg)
+[![Download für macOS mit Intel/AMD Chip](https://img.shields.io/badge/latest-macOS%20x64-white.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.7.0/Ambulaunch-1.7.0-mac-x64-3182e4b2-98e1-4103-b4e1-e43185415c1e.dmg)
+[![Download für macOS mit Apple Chip](https://img.shields.io/badge/latest-macOS%20ARM-white.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.7.0/Ambulaunch-1.7.0-mac-arm64-3182e4b2-98e1-4103-b4e1-e43185415c1e.dmg)
 
-## Key Functionality
+## Was kann Ambulaunch?
 
 ### BFSB (Big Fat Search Box)
-- **Instant Access with Hotkey**: Simply press `CMD + J` (Mac) or `Ctrl + J` (Windows) to instantly bring up the BFSB. This non-distracting search box is always at your fingertips, ready to assist with your queries. Once activated, the search dashboard appears, conveniently pre-populated with your entered term, allowing for immediate and efficient search operations.
+- **Schneller Zugriff mit Hotkey**: Drücken Sie einfach `CMD + J` (Mac) oder `Strg + J` (Windows), um die BFSB sofort aufzurufen. Damit ist AMBOSS immer zur Hand, lenkt nicht ab und kann jederzeit bei Suchanfragen helfen. Sobald es aktiviert ist, wird das Such-Dashboard angezeigt, das bequem mit dem eingegebenen Begriff vorausgefüllt ist und sofortige und effiziente Suchvorgänge ermöglicht.
 
-### Additional Features/Roadmap
-- **Customized Suggestions**: Ambulaunch is not just a search tool; it suggests tailored searches and content deeplinks, targeting specific specialties or areas of interest.
-- **Related Answers**: Beyond just finding resources, it offers relevant answers and resources based on the context of your query.
-- **Smart Assistant Capabilities**: It functions as a smart assistant, providing quick commands for common tasks. Examples include:
-  - `/Show reference lab values for liver` for quick medical reference.
-  - `/Print AM checklist for migraine` for printing checklists and guidelines.
-  - `/Open M3 study plan` to access specific study or treatment plans.
+### Zusätzliche Funktionen/Roadmap
+- **Angepasste Vorschläge**: Ambulaunch ist nicht nur ein Suchtool, sondern bietet auch maßgeschneiderte Suchvorschläge und Deeplinks zu bestimmten Fachgebieten oder Interessenbereichen.
+- **Ähnlichen Antworten**: Ambulaunch findet nicht nur Ressourcen, sondern bietet auch relevante Antworten und Ressourcen, die auf dem Kontext Ihrer Anfrage basieren.
+- **Smart Assistant-Funktionen**: Sie funktioniert wie ein intelligenter Assistent, der schnelle Befehle für gängige Aufgaben liefert. Beispiele hierfür sind:
+  - `/Show reference lab values for liver` für eine Liste von Referenzwerten.
+  - `/Print AM checklist for migraine` zum Auflisten von Checklisten und Leitlinien.
+  - `/Open M3 study plan` für den Zugriff auf bestimmte Lernpläne.
 
-## Usage
+## Verwendung
 
-This repository hosts the binary releases of Ambulaunch for easy public access and distribution. Feel free to download the latest version suitable for your operating system.
+Dieses Repository enthält die Releases von Ambulaunch BETA für einen einfachen öffentlichen Zugang und lokale Installation. Sie können die neueste Version, die für Ihr Betriebssystem geeignet ist, gerne herunterladen und testen.
 
 ## Contributions
 
@@ -36,8 +36,10 @@ While this is a publicly accessible repository, as an internal project we encour
 
 We value your input and engagement to make Ambulaunch even better!
 
-## License
+## Lizenz | License
+
+Die Software ist unter einer proprietären Lizenz verfügbar. Die Weiterverbreitung und Verwendung in Quell- und Binärform, mit oder ohne Modifikation, ist ohne ausdrückliche vorherige schriftliche Genehmigung der AMBOSS GmbH nicht gestattet.
 
 The software is available under a proprietary license. Redistribution and use in source and binary forms, with or without modification, are not permitted without specific prior written permission from AMBOSS GmbH.
 
-Happy Launching! 🌟
+Happy Launching! 🌟 und viel Spaß beim Starten! 🌕
