@@ -2,6 +2,8 @@
 
 Willkommen zum Ambulaunch BETA Release Repository! Ambulaunch ist ein einfach zu bedienender, leistungsstarker Launcher, der speziell für den Einsatz in Arztpraxen und Kliniken entwickelt wurde. Dieses Tool hilft, effizienter zu arbeiten, indem es nahtlosen Zugriff auf eine breite Palette von klinischen, medizinischen Ressourcen bietet ohne dabei viele Klicks zu erfordern.
 
+[Zum FAQ](https://gist.github.com/Kniggishood/ee72fe56e3a9917ce266b3608fd340f6)
+
 ## Download
 
 [![Download für Windows](https://img.shields.io/badge/latest-Windows%20x64-blue.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.6.3/Ambulaunch-1.6.3-win-setup-x64-3182e4b2-98e1-4103-b4e1-e43185415c1e.exe)
