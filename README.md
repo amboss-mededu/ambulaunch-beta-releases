@@ -6,10 +6,10 @@ Willkommen zum Ambulaunch BETA Release Repository! Ambulaunch ist ein einfach zu
 
 ## Download
 
-[![Download für Windows](https://img.shields.io/badge/latest-Windows%20x64-blue.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.7.0/Ambulaunch-1.7.0-win-setup-x64-3182e4b2-98e1-4103-b4e1-e43185415c1e.exe)
+[![Download für Windows](https://img.shields.io/badge/latest-Windows%20x64-blue.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.7.1/Ambulaunch-1.7.1-win-setup-x64-3182e4b2-98e1-4103-b4e1-e43185415c1e.exe)
 
-[![Download für macOS mit Intel/AMD Chip](https://img.shields.io/badge/latest-macOS%20x64%20(Intel|AMD)-white.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.7.0/Ambulaunch-1.7.0-mac-x64-3182e4b2-98e1-4103-b4e1-e43185415c1e.dmg)
-[![Download für macOS mit Apple Chip](https://img.shields.io/badge/latest-macOS%20Apple%20Chip-white.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.7.0/Ambulaunch-1.7.0-mac-arm64-3182e4b2-98e1-4103-b4e1-e43185415c1e.dmg)
+[![Download für macOS mit Intel/AMD Chip](https://img.shields.io/badge/latest-macOS%20x64%20(Intel|AMD)-white.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.7.1/Ambulaunch-1.7.1-mac-x64-3182e4b2-98e1-4103-b4e1-e43185415c1e.dmg)
+[![Download für macOS mit Apple Chip](https://img.shields.io/badge/latest-macOS%20Apple%20Chip-white.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.7.1/Ambulaunch-1.7.1-mac-arm64-3182e4b2-98e1-4103-b4e1-e43185415c1e.dmg)
 
 ## Was kann Ambulaunch?
 
