@@ -1,47 +1,45 @@
-# 🚀 Ambulaunch-Beta Release Repo
+# 🚀 Ambulaunch Release Repository
 
-Willkommen zum Ambulaunch BETA Release Repository! Ambulaunch ist ein einfach zu bedienender, leistungsstarker Launcher, der speziell für den Einsatz in Arztpraxen und Kliniken entwickelt wurde. Dieses Tool hilft, effizienter zu arbeiten, indem es nahtlosen Zugriff auf eine breite Palette von klinischen, medizinischen Ressourcen bietet ohne dabei viele Klicks zu erfordern.
+Willkommen zum Ambulaunch Release Repository! Ambulaunch ist ein einfach zu bedienender, leistungsstarker Launcher, der speziell für den Einsatz in Arztpraxen und Kliniken entwickelt wurde. Dieses Tool hilft, effizienter zu arbeiten, indem es nahtlosen Zugriff auf eine breite Palette von klinischen Ressourcen bietet — ohne dabei viele Klicks zu erfordern.
 
-[Zum FAQ](https://gist.github.com/Kniggishood/ee72fe56e3a9917ce266b3608fd340f6)
+[Zum FAQ](FAQ.md)
 
 ## Download
 
-[![Download für Windows](https://img.shields.io/badge/latest-Windows%20x64-blue.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.7.1/Ambulaunch-1.7.1-win-setup-x64-3182e4b2-98e1-4103-b4e1-e43185415c1e.exe)
+Aktuelle Version stets direkt aus dem **[Releases-Bereich](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/latest)** — dort die passende `.dmg` (macOS) oder `.exe` (Windows) auswählen.
 
-[![Download für macOS mit Intel/AMD Chip](https://img.shields.io/badge/latest-macOS%20x64%20(Intel|AMD)-white.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.7.1/Ambulaunch-1.7.1-mac-x64-3182e4b2-98e1-4103-b4e1-e43185415c1e.dmg)
-[![Download für macOS mit Apple Chip](https://img.shields.io/badge/latest-macOS%20Apple%20Chip-white.svg)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/download/v1.7.1/Ambulaunch-1.7.1-mac-arm64-3182e4b2-98e1-4103-b4e1-e43185415c1e.dmg)
+[![Download für macOS (Apple Silicon)](https://img.shields.io/badge/Download-macOS%20Apple%20Silicon-white.svg?logo=apple&logoColor=white)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/latest)
+[![Download für macOS (Intel)](https://img.shields.io/badge/Download-macOS%20Intel-white.svg?logo=apple&logoColor=white)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/latest)
+[![Download für Windows](https://img.shields.io/badge/Download-Windows%20x64-blue.svg?logo=windows&logoColor=white)](https://github.com/amboss-mededu/ambulaunch-beta-releases/releases/latest)
+
+![Aktuelle Version](https://img.shields.io/github/v/release/amboss-mededu/ambulaunch-beta-releases?display_name=tag&label=Aktuelle%20Version)
 
 ## Was kann Ambulaunch?
 
-### BFSB (Big Fat Search Box)
-- **Schneller Zugriff mit Hotkey**: Drücken Sie einfach `CMD + J` (Mac) oder `Strg + J` (Windows), um die BFSB sofort aufzurufen. Damit ist AMBOSS immer zur Hand, lenkt nicht ab und kann jederzeit bei Suchanfragen helfen. Sobald es aktiviert ist, wird das Such-Dashboard angezeigt, das bequem mit dem eingegebenen Begriff vorausgefüllt ist und sofortige und effiziente Suchvorgänge ermöglicht.
+### Schneller Zugriff mit Hotkey
+Drücken Sie einfach `Cmd + J` (macOS) oder `Strg + J` (Windows), um Ambulaunch sofort aufzurufen — der Hotkey lässt sich in den Einstellungen frei umbelegen. Damit ist AMBOSS immer zur Hand, lenkt nicht ab und steht bei Suchanfragen jederzeit zur Verfügung. Die Suchbox erscheint bequem mit dem eingegebenen Begriff vorausgefüllt und ermöglicht sofortige, effiziente Suchvorgänge.
 
-### Zusätzliche Funktionen/Roadmap
-- **Angepasste Vorschläge**: Ambulaunch ist nicht nur ein Suchtool, sondern bietet auch maßgeschneiderte Suchvorschläge und Deeplinks zu bestimmten Fachgebieten oder Interessenbereichen.
-- **Ähnlichen Antworten**: Ambulaunch findet nicht nur Ressourcen, sondern bietet auch relevante Antworten und Ressourcen, die auf dem Kontext Ihrer Anfrage basieren.
-- **Smart Assistant-Funktionen**: Sie funktioniert wie ein intelligenter Assistent, der schnelle Befehle für gängige Aufgaben liefert. Beispiele hierfür sind:
-  - `/Show reference lab values for liver` für eine Liste von Referenzwerten.
-  - `/Print AM checklist for migraine` zum Auflisten von Checklisten und Leitlinien.
-  - `/Open M3 study plan` für den Zugriff auf bestimmte Lernpläne.
+### Suche und KI-Modus
+- **Suche**: Vorschläge und Direkttreffer beim Tippen, basierend auf der AMBOSS-Inhaltsdatenbank.
+- **KI-Modus (Ask)**: Medizinische Frage formulieren und eine kuratierte, kontextuelle Antwort erhalten.
+
+### Komfortfunktionen
+- **Schwebendes Logo**: Ein dezentes AMBOSS-Logo bleibt auf dem Desktop sichtbar, ist klickbar und frei verschiebbar.
+- **Tray-Menü**: Direkter Zugriff auf Einstellungen, Sprache (Deutsch/Englisch) und Updates.
+- **Auto-Updates**: Ambulaunch hält sich selbst aktuell. Wer früher testen möchte, kann den Pre-Release-Kanal in den Einstellungen aktivieren.
+
+## Ambulaunch Pro
+
+Für Praxen und Kliniken mit weitergehenden Bedürfnissen gibt es **Ambulaunch Pro** — mit Spracheingabe, lokalen KI-Antworten auf dem Gerät und Bildanfragen per OCR. Anfragen an **hallo@amboss.com**.
 
 ## Verwendung
 
-Dieses Repository enthält die Releases von Ambulaunch BETA für einen einfachen öffentlichen Zugang und lokale Installation. Sie können die neueste Version, die für Ihr Betriebssystem geeignet ist, gerne herunterladen und testen.
-
-## Contributions
-
-While this is a publicly accessible repository, as an internal project we encourage contributions primarily from our team. If you're a team member and want to contribute:
-- Head to the [internal repo](https://github.com/amboss-mededu/Ambulaunch).
-- Fork it.
-- Change it.
-- Submit a pull request.
-
-We value your input and engagement to make Ambulaunch even better!
+Dieses Repository enthält die öffentlichen Releases der Standard-Edition von Ambulaunch für einen einfachen Zugang und lokale Installation. Beim ersten Start erfolgt eine einmalige AMBOSS-Anmeldung im integrierten Mini-Browser; die Sitzung bleibt anschließend dauerhaft aktiv.
 
 ## Lizenz | License
 
-Die Software ist unter einer proprietären Lizenz verfügbar. Die Weiterverbreitung und Verwendung in Quell- und Binärform, mit oder ohne Modifikation, ist ohne ausdrückliche vorherige schriftliche Genehmigung der AMBOSS GmbH nicht gestattet.
+Die Software ist unter einer proprietären Lizenz verfügbar. Die Weiterverbreitung und Verwendung in Quell- und Binärform, mit oder ohne Modifikation, ist ohne ausdrückliche vorherige schriftliche Genehmigung der AMBOSS SE nicht gestattet.
 
-The software is available under a proprietary license. Redistribution and use in source and binary forms, with or without modification, are not permitted without specific prior written permission from AMBOSS GmbH.
+The software is available under a proprietary license. Redistribution and use in source and binary forms, with or without modification, are not permitted without specific prior written permission from AMBOSS SE.
 
 Happy Launching! 🌟 und viel Spaß beim Starten! 🌕
